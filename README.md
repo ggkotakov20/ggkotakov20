@@ -2,7 +2,7 @@
 
 I am a student in [@codingburgas](https://github.com/codingburgas) 🏫 , who is currently studying C++, HTML and CSS. I love to play games and program my website 👨🏻‍💻 . And I want to be professional Web Developer 🥇 .
 
-<img align="right" height="300" width="475" alt="" src="https://jwalaayurvedic.com/Image/programming.gif" />
+<img align="right" height="275" width="450" alt="" src="https://jwalaayurvedic.com/Image/programming.gif" />
 
 ## Talking about Personal Stuffs:
 
