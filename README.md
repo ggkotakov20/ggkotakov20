@@ -1,6 +1,6 @@
 # Hi, I am [Georgi Kotakov](https://github.com/ggkotakov20)
 
-I am a student in [@codingburgas](https://github.com/codingburgas) 🏫 , who is currently studying C++, HTML and CSS. I love to play games and program my website 👨🏻‍💻 . And I want to be professional Web Developer 🥇 .
+I am a student in [@codingburgas](https://github.com/codingburgas) 🏫, who is currently studying C++, JS, HTML and CSS. I love to play games and program my website 👨🏻‍💻. And I want to be professional Web Developer 🥇.
 
 <img align="right" height="275" width="450" alt="" src="https://jwalaayurvedic.com/Image/programming.gif" />
 
@@ -22,13 +22,11 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🏫 , who is
 
 ## Projects and Dev Stuffs:
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
+### ⚡ Github Stats
 
-![Grade](https://github-readme-stats.vercel.app/api?username=ggkotakov20&show_icons=true&theme=radical&count_private=true)
-</details>
-<details>
-    <summary><b>🏅 Badges</b></summary>
+![Grade](https://github-readme-stats.vercel.app/api?username=ggkotakov20&show_icons=true&theme=tokyonight&count_private=true)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggkotakov20&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+### 🏅 Badges
 
 [![MTA: Introduction to Programming Using HTML and CSS - Certified 2021](https://images.credly.com/size/110x110/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png)](http://www.credly.com/badges/50443da3-91dc-4cda-b602-2a9db3d76249 "MTA: Introduction to Programming Using HTML and CSS - Certified 2021")
-</details>
