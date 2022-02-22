@@ -12,8 +12,10 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🏫, who is 
 
 ## Languages and Tools:
 
-<code><img alt="CPP" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" ></code>
+<code><img alt="Visual Studi Code" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img alt="Apache NetBeans" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png"></code>
+<code><img alt="CPP" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" ></code>
+<code><img alt="JS" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" ></code>
 <code><img alt="HTML5" width="37px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
 <code><img alt="CSS3" width="37px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
 <code><img alt="PHP" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" ></code>
