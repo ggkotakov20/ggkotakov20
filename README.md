@@ -25,7 +25,7 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🏫, who is 
 ### ⚡ Github Stats
 
 ![Grade](https://github-readme-stats.vercel.app/api?username=ggkotakov20&show_icons=true&theme=tokyonight&count_private=true)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggkotakov20&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggkotakov20&layout=compact&theme=tokyonight&count_private=true)
   
 ### 🏅 Badges
 
