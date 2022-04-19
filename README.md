@@ -32,4 +32,4 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🏫, who is 
 ### 🏅 Badges
 
 [![MTA: Introduction to Programming Using HTML and CSS - Certified 2021](https://images.credly.com/size/110x110/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png)](http://www.credly.com/badges/50443da3-91dc-4cda-b602-2a9db3d76249 "MTA: Introduction to Programming Using HTML and CSS - Certified 2021")
-[![IT Specialist - JavaScript](https://images.credly.com/size/680x680/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png)](https://www.credly.com/earner/earned/badge/b90ddf18-58e8-408c-a9ed-c9107a226f00 "IT Specialist - JavaScript")
+[![IT Specialist - JavaScript](https://images.credly.com/size/110x110/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png)](https://www.credly.com/earner/earned/badge/b90ddf18-58e8-408c-a9ed-c9107a226f00 "IT Specialist - JavaScript")
