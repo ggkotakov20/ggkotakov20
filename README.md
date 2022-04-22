@@ -18,7 +18,8 @@ I am a student in [@codingburgas](https://github.com/codingburgas) 🏫, who is 
 <code><img alt="JS" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" ></code>
 <code><img alt="HTML5" width="37px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
 <code><img alt="CSS3" width="37px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
-<code><img alt="PHP" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" ></code>
+<code><img alt="PHP" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" ></code>
+<code><img alt="MySQL" width="52px" src="https://miro.medium.com/max/696/0*hgfVSmRe0KQ8p1jZ.jpg" ></code>
 
 
 
