@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am <a href="https://github.com/ggkotakov20">Georgi Kotakov</a></h1>
 
-<p>I am a student in <a href="https://github.com/codingburgas">@codingburgas</a> 🏫, who is currently studying C++, PHP and Database. I love to play games and program my website 👨🏻‍💻. And I want to be professional Web Developer 🥇.</p>
+<p>I am a student in <a href="https://github.com/codingburgas">@codingburgas</a> 🏫, who is currently studying C++, PHP and Database. I love to play games and programmin my website 👨🏻‍💻. I want to be professional Web Developer 🥇.</p>
 
 <img align="right" height="275" width="475" alt="" src="https://jwalaayurvedic.com/Image/programming.gif" />
 
