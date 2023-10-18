@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am <a href="https://github.com/ggkotakov20">Georgi Kotakov</a></h1>
 
-<p>I am a student in <a href="https://github.com/codingburgas">@codingburgas</a> 🏫, who is currently studying C++, PHP and Database. I love to play games and programmin my website 👨🏻‍💻. I want to be professional Web Developer 🥇.</p>
+<p>I am a student in <a href="https://github.com/codingburgas">@codingburgas</a> 🏫, who is currently studying Java, C#, PHP and Database. I love to play games and programmin my website 👨🏻‍💻. I want to be professional Web Developer 🥇.</p>
 
 <img align="right" height="275" width="475" alt="" src="https://jwalaayurvedic.com/Image/programming.gif" />
 
@@ -38,6 +38,14 @@
 <details>
   <summary><h3>🏅 Badges</h3></summary>
 
-[![MTA: Introduction to Programming Using HTML and CSS - Certified 2021](https://images.credly.com/size/110x110/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png)](http://www.credly.com/badges/50443da3-91dc-4cda-b602-2a9db3d76249 "MTA: Introduction to Programming Using HTML and CSS - Certified 2021")
-[![IT Specialist - JavaScript](https://images.credly.com/size/110x110/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png)](https://www.credly.com/earner/earned/badge/b90ddf18-58e8-408c-a9ed-c9107a226f00 "IT Specialist - JavaScript")
+<a href="https://www.credly.com/badges/b90ddf18-58e8-408c-a9ed-c9107a226f00/public_url">
+  <img src="https://images.credly.com/size/340x340/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" alt="IT Specialist - JavaScript" width="110" height="110">
+</a>
+<a href="https://www.credly.com/badges/32eee086-ded8-4d91-b944-0a70ea8e9c88/public_url">
+  <img src="https://images.credly.com/size/110x110/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" alt="IT Essentials" width="110" height="110">
+</a>
+<a href="https://www.credly.com/badges/ad4af871-469b-4a08-86f3-2b124e984d61/public_url">
+  <img src="https://images.credly.com/size/340x340/images/d9598c1a-2f59-49b9-b7fc-a764bf23b4d5/image.png" alt="App Development with Swift Associate" width="110" height="110">
+</a>
+
 </details>
