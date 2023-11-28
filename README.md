@@ -7,7 +7,8 @@
 <h2>Talking about Personal Stuffs:</h2>
 
 - 👨🏻‍💻 &nbsp; Most of my projects are available over [here](https://github.com/ggkotakov20?tab=repositories).
-- 📧 &nbsp; How to reach me: [here](mailto:ggkotakov20@codingburgas.bg)
+- 📧 &nbsp; How to reach me [here](mailto:ggkotakov20@codingburgas.bg)
+- 🏅 &nbsp; You can see my badges [here](https://www.credly.com/users/georgi-kotakov.70419408)
 
 
 <h2>Languages and Tools:</h2>
@@ -35,17 +36,3 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggkotakov20&layout=compact&theme=tokyonight&count_private=true)
 </details>
   
-<details>
-  <summary><h3>🏅 Badges</h3></summary>
-
-<a href="https://www.credly.com/badges/b90ddf18-58e8-408c-a9ed-c9107a226f00/public_url">
-  <img src="https://images.credly.com/size/340x340/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" alt="IT Specialist - JavaScript" width="110" height="110">
-</a>
-<a href="https://www.credly.com/badges/32eee086-ded8-4d91-b944-0a70ea8e9c88/public_url">
-  <img src="https://images.credly.com/size/110x110/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" alt="IT Essentials" width="110" height="110">
-</a>
-<a href="https://www.credly.com/badges/ad4af871-469b-4a08-86f3-2b124e984d61/public_url">
-  <img src="https://images.credly.com/size/340x340/images/d9598c1a-2f59-49b9-b7fc-a764bf23b4d5/image.png" alt="App Development with Swift Associate" width="110" height="110">
-</a>
-
-</details>
