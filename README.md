@@ -13,18 +13,12 @@
 
 <h2>Languages and Tools:</h2>
 
-<p align="center">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=1A1B27&logo=Visual+Studio+Code&logoColor=3FADF2&label=">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=1A1B27&logo=cplusplus&logoColor=00589D&label=">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=1A1B27&logo=PHP&label=">
-  <br>
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=1A1B27&logo=javascript&logoColor=EAD41C&label=">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=1A1B27&logo=HTML5&logoColor=E44D26&label=">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1A1B27&logo=CSS3&logoColor=2965F1&label=">
-  <br>
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=1A1B27&logo=MySQL&label=">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache+NetBeans+IDE&color=1A1B27&logo=Apache+NetBeans+IDE&label=">
-</p>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cpp"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="php"></code>
+<code><img height="27" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="javascript"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt="html"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="css"></code>
 
 
 
